@@ -70,3 +70,23 @@
 ![Result](./assets/result.png)
 
 #### Результат виконаного ДЗ
+
+## Нормалізовано таблицю до 1НФ:
+
+![Result](./images/p1_normalized_tables_1.png)
+
+## Нормалізовано таблицю до 2НФ:
+
+![Result](./images/p2_normalized_tables_2.png)
+
+## Нормалізовано таблицю до 3НФ:
+
+![Result](./images/p3_normalized_tables_3.png)
+
+## Створено ER-діаграму отриманих таблиць (https://dbdiagram.io/):
+
+![Result](./images/p4_er_diagram.png)
+
+## Створено таблиці в базі даних:
+
+![Result](./images/p5_db_tables.png)
